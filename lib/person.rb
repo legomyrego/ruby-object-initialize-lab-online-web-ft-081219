@@ -11,12 +11,3 @@ class Person
 
   end
 end
-
-
-
-
-
-
-
-
-    
